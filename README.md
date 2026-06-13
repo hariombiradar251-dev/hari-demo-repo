@@ -1,3 +1,3 @@
 # hari-demo-repo
 this is my first repository 
-author hariom
+author-hariom biradar
